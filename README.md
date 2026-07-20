@@ -1,4 +1,5 @@
-# Bienvenido
+# Welcome
+### My name is Chritopher Cisneros,computer Engineering student with a great passion for continuous learning. I am known for being someone committed to improving every day and acquiring new knowledge in the technology field while continuing to grow both technically and professionally.
 # 💻 Languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
